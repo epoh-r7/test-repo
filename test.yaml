@@ -1,7 +1,7 @@
 openapi: 3.0.3
 info:
-  title: Title
-  description: Title
+  title: Test
+  description: Test
   version: 1.0.0
 servers:
   - url: 'https'
